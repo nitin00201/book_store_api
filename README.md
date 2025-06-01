@@ -48,8 +48,8 @@ book-review-api/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/book-review-api.git
-cd book-review-api
+git clone https://github.com/nitin00201/book_store_api.git
+cd book_store_api
 ```
 
 ### 2. Install Dependencies
